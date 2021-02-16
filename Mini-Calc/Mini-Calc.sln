@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Mini-Calc", "Mini-Calc\Mini-Calc.vbproj", "{C6B289C0-3AEA-4D2C-A467-2BD9C916A904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6B289C0-3AEA-4D2C-A467-2BD9C916A904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6B289C0-3AEA-4D2C-A467-2BD9C916A904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6B289C0-3AEA-4D2C-A467-2BD9C916A904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6B289C0-3AEA-4D2C-A467-2BD9C916A904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CC4D3CB-D37B-4774-8B07-3352BECE6298}
+	EndGlobalSection
+EndGlobal

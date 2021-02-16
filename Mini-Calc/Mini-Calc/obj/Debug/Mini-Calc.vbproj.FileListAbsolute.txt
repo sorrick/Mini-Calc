@@ -1,0 +1,24 @@
+D:\GUI Programming\Mini-Calc\Mini-Calc\bin\Debug\Mini-Calc.exe.config
+D:\GUI Programming\Mini-Calc\Mini-Calc\bin\Debug\Mini-Calc.exe
+D:\GUI Programming\Mini-Calc\Mini-Calc\bin\Debug\Mini-Calc.pdb
+D:\GUI Programming\Mini-Calc\Mini-Calc\bin\Debug\Mini-Calc.xml
+D:\GUI Programming\Mini-Calc\Mini-Calc\obj\Debug\Mini-Calc.vbprojAssemblyReference.cache
+D:\GUI Programming\Mini-Calc\Mini-Calc\obj\Debug\Mini_Calc.Resources.resources
+D:\GUI Programming\Mini-Calc\Mini-Calc\obj\Debug\Mini-Calc.vbproj.GenerateResource.cache
+D:\GUI Programming\Mini-Calc\Mini-Calc\obj\Debug\Mini-Calc.vbproj.CoreCompileInputs.cache
+D:\GUI Programming\Mini-Calc\Mini-Calc\obj\Debug\Mini-Calc.exe
+D:\GUI Programming\Mini-Calc\Mini-Calc\obj\Debug\Mini-Calc.xml
+D:\GUI Programming\Mini-Calc\Mini-Calc\obj\Debug\Mini-Calc.pdb
+D:\GUI Programming\Mini-Calc\Mini-Calc\obj\Debug\Mini_Calc.frmMiniCalc.resources
+D:\CIS1510 - GUI Programming\Mini-Calc\Mini-Calc\bin\Debug\Mini-Calc.exe.config
+D:\CIS1510 - GUI Programming\Mini-Calc\Mini-Calc\bin\Debug\Mini-Calc.exe
+D:\CIS1510 - GUI Programming\Mini-Calc\Mini-Calc\bin\Debug\Mini-Calc.pdb
+D:\CIS1510 - GUI Programming\Mini-Calc\Mini-Calc\bin\Debug\Mini-Calc.xml
+D:\CIS1510 - GUI Programming\Mini-Calc\Mini-Calc\obj\Debug\Mini-Calc.vbprojAssemblyReference.cache
+D:\CIS1510 - GUI Programming\Mini-Calc\Mini-Calc\obj\Debug\Mini_Calc.frmMiniCalc.resources
+D:\CIS1510 - GUI Programming\Mini-Calc\Mini-Calc\obj\Debug\Mini_Calc.Resources.resources
+D:\CIS1510 - GUI Programming\Mini-Calc\Mini-Calc\obj\Debug\Mini-Calc.vbproj.GenerateResource.cache
+D:\CIS1510 - GUI Programming\Mini-Calc\Mini-Calc\obj\Debug\Mini-Calc.vbproj.CoreCompileInputs.cache
+D:\CIS1510 - GUI Programming\Mini-Calc\Mini-Calc\obj\Debug\Mini-Calc.exe
+D:\CIS1510 - GUI Programming\Mini-Calc\Mini-Calc\obj\Debug\Mini-Calc.xml
+D:\CIS1510 - GUI Programming\Mini-Calc\Mini-Calc\obj\Debug\Mini-Calc.pdb
